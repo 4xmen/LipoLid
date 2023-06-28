@@ -39,5 +39,5 @@ $ ./lipolid.sh
 
 ## Support
 
-For support, email fake@fake.com or join our Slack channel.
+For support, [ISSUES](https://github.com/4xmen/LipoLid/issues)
 
